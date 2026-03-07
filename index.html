@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jack Babcock</title>
+    <meta
+      name="description"
+      content="Jack Babcock is a software builder creating thoughtful tools, projects, notes, and experiments on the web."
+    />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="layout">
+      <aside class="sidebar" aria-label="Primary">
+        <nav class="sidebar__nav">
+          <a class="sidebar__link is-active" href="./index.html" aria-current="page">about</a>
+          <a class="sidebar__link" href="./projects.html">projects</a>
+          <a class="sidebar__link" href="./notes.html">notes</a>
+          <a class="sidebar__link" href="./albums.html">albums</a>
+        </nav>
+      </aside>
+
+      <main class="content">
+        <header class="page__header">
+          <h1>Jack Babcock</h1>
+        </header>
+
+        <div class="lede">
+          <p>I love life.</p>
+        </div>
+
+        <section class="mosaic" aria-label="Photo composition">
+          <figure class="photo photo--left">
+            <img
+              src="./pics/newport.jpeg"
+              alt="Newport"
+              width="768"
+              height="1024"
+              decoding="async"
+            />
+          </figure>
+          <figure class="photo photo--center">
+            <img
+              src="./pics/sardinia.jpeg"
+              alt="Sardinia"
+              width="724"
+              height="1086"
+              decoding="async"
+            />
+          </figure>
+          <figure class="photo photo--right">
+            <img
+              src="./pics/switzerland.jpeg"
+              alt="Switzerland"
+              width="768"
+              height="1024"
+              decoding="async"
+            />
+          </figure>
+        </section>
+
+        <section class="section-block">
+          <h2 class="section-title">Images</h2>
+          <div class="media-strip">
+            <!-- Copy one figure.media-card block and change the src/alt/width/height values. -->
+            <figure class="media-card">
+              <img
+                src="./pics/newport.jpeg"
+                alt="Newport"
+                width="768"
+                height="1024"
+                loading="lazy"
+                decoding="async"
+              />
+            </figure>
+            <figure class="media-card">
+              <img
+                src="./pics/sardinia.jpeg"
+                alt="Sardinia"
+                width="724"
+                height="1086"
+                loading="lazy"
+                decoding="async"
+              />
+            </figure>
+          </div>
+        </section>
+
+        <section class="section-block">
+          <h2 class="section-title">Links</h2>
+          <ul class="link-list-simple">
+            <!-- Copy one li block and change the href/text. -->
+            <li><a href="./projects.html">Projects</a></li>
+            <li><a href="./notes.html">Notes</a></li>
+            <li><a href="./albums.html">Albums</a></li>
+          </ul>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>
