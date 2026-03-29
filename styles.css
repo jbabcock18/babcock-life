@@ -151,14 +151,14 @@ a {
   letter-spacing: 0.02em;
 }
 
+.selection-item:focus-visible {
+  outline: none;
+}
+
 .selection-item:hover .selection-item__title,
 .selection-item:focus-visible .selection-item__title {
   text-decoration: underline;
   text-underline-offset: 0.12em;
-}
-
-.selection-item:focus-visible {
-  outline: none;
 }
 
 .mosaic {
@@ -355,6 +355,91 @@ a {
   outline: none;
 }
 
+.content--wall {
+  max-width: none;
+}
+
+.wall-page {
+  min-height: calc(100vh - 184px);
+}
+
+.wall-marquee {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  width: 100%;
+  height: calc(100vh - 184px);
+  min-height: 760px;
+  overflow: hidden;
+}
+
+.wall-column {
+  overflow: hidden;
+}
+
+.wall-track {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.wall-track--up {
+  animation: wall-scroll-up 30s linear infinite;
+}
+
+.wall-track--down {
+  transform: translateY(calc(-50% - 6px));
+  animation: wall-scroll-down 30s linear infinite;
+}
+
+.wall-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.wall-tile {
+  margin: 0;
+  min-height: 220px;
+  overflow: hidden;
+  background: #f2ede5;
+}
+
+.wall-tile--tall {
+  min-height: 340px;
+}
+
+.wall-tile--square {
+  min-height: 280px;
+}
+
+.wall-tile img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@keyframes wall-scroll-up {
+  from {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY(calc(-50% - 6px));
+  }
+}
+
+@keyframes wall-scroll-down {
+  from {
+    transform: translateY(calc(-50% - 6px));
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
 @media (max-width: 960px) {
   .layout {
     width: min(100vw - 28px, 100%);
@@ -413,5 +498,45 @@ a {
 
   .selection-item__leader {
     display: none;
+  }
+
+  .content--wall {
+    padding-right: 0;
+  }
+
+  .wall-page {
+    min-height: 0;
+  }
+
+  .wall-marquee {
+    height: 72vh;
+    min-height: 620px;
+    gap: 8px;
+  }
+
+  .wall-track,
+  .wall-stack {
+    gap: 8px;
+  }
+
+  .wall-tile {
+    min-height: 168px;
+  }
+
+  .wall-tile--tall {
+    min-height: 248px;
+  }
+
+  .wall-tile--square {
+    min-height: 208px;
+  }
+
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wall-track--up,
+  .wall-track--down {
+    animation: none;
+    transform: none;
   }
 }
