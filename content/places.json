@@ -1,0 +1,30 @@
+{
+  "//": "Named places. A photo with a GPS fix is matched to the nearest place whose radius (km) contains it. Photos without a fix can be pinned to a place by hand in captions.json. Names were checked against OpenStreetMap reverse geocoding of the fixes.",
+  "chapters": [
+    { "id": "austin", "title": "Austin" },
+    { "id": "florence", "title": "Florence" },
+    { "id": "cinque-terre", "title": "Cinque Terre" },
+    { "id": "rome", "title": "Rome" },
+    { "id": "copenhagen", "title": "Copenhagen" },
+    { "id": "norway", "title": "Norway" },
+    { "id": "tallinn", "title": "Tallinn" }
+  ],
+  "places": [
+    { "id": "florence", "chapter": "florence", "name": "Florence", "area": "Tuscany", "country": "Italy", "lat": 43.769, "lon": 11.252, "radius": 6 },
+    { "id": "manarola", "chapter": "cinque-terre", "name": "Manarola", "area": "Cinque Terre", "country": "Italy", "lat": 44.099, "lon": 9.738, "radius": 1 },
+    { "id": "san-bernardino", "chapter": "cinque-terre", "name": "San Bernardino", "area": "above Corniglia, Cinque Terre", "country": "Italy", "lat": 44.1292, "lon": 9.7, "radius": 1.5 },
+    { "id": "riomaggiore", "chapter": "cinque-terre", "name": "Riomaggiore", "area": "Cinque Terre", "country": "Italy", "lat": 44.0919, "lon": 9.7587, "radius": 1 },
+    { "id": "rome", "chapter": "rome", "name": "Rome", "area": "Monti", "country": "Italy", "lat": 41.8932, "lon": 12.49, "radius": 8 },
+    { "id": "copenhagen", "chapter": "copenhagen", "name": "Copenhagen", "area": "Sydhavnen", "country": "Denmark", "lat": 55.655, "lon": 12.541, "radius": 8 },
+    { "id": "tennfjord", "chapter": "norway", "name": "Tennfjord", "area": "Møre og Romsdal", "country": "Norway", "lat": 62.5432, "lon": 6.569, "radius": 5 },
+    { "id": "geiranger", "chapter": "norway", "name": "Geiranger", "area": "Møre og Romsdal", "country": "Norway", "lat": 62.11, "lon": 7.17, "radius": 6 },
+    { "id": "olden", "chapter": "norway", "name": "Olden", "area": "Vestland", "country": "Norway", "lat": 61.8351, "lon": 6.8061, "radius": 4 },
+    { "id": "dvergsdalen", "chapter": "norway", "name": "Dvergsdalen", "area": "Sunnfjord, Vestland", "country": "Norway", "lat": 61.5401, "lon": 6.4496, "radius": 2.4 },
+    { "id": "skei", "chapter": "norway", "name": "Skei", "area": "Sunnfjord, Vestland", "country": "Norway", "lat": 61.5809, "lon": 6.4887, "radius": 2.4 },
+    { "id": "norway", "chapter": "norway", "name": "Norway", "area": "", "country": "Norway" },
+    { "id": "tallinn", "chapter": "tallinn", "name": "Tallinn", "area": "Põhja-Tallinn", "country": "Estonia", "lat": 59.441, "lon": 24.7352, "radius": 8 },
+    { "id": "austin", "chapter": "austin", "name": "Austin", "area": "Texas", "country": "United States", "lat": 30.2596, "lon": -97.7386, "radius": 30 },
+    { "id": "maslinica", "name": "Maslinica", "area": "Šolta", "country": "Croatia", "lat": 43.3984, "lon": 16.2077, "radius": 3 },
+    { "id": "unterseen", "name": "Unterseen", "area": "Interlaken", "country": "Switzerland", "lat": 46.6939, "lon": 7.8615, "radius": 5 }
+  ]
+}

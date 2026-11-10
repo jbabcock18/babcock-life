@@ -1,0 +1,20 @@
+---
+title: The Pleasure of Finding Things Out
+author: Richard Feynman
+date: 2026-03-11
+description: Notes on The Pleasure of Finding Things Out by Richard Feynman.
+---
+
+There's a trick Feynman learned from Hans Bethe on squaring numbers near 50. If it's 3 below 50, then it's 3 below 25, like 47 squared is 22 and how much is left over is the square of what's residual. For instance, with your 3 less you get 9, 2209 from 47 squared.
+
+While at Princeton, Bob Wilson told him about a secret project involving separating different isotopes of uranium to make a bomb. The thought to do it before Hitler and the Germans drew him to join the meeting and learn more. At Los Alamos, he was in the theoretical work, all the rest were in experimental work. Bob Wilson sent him to Chicago to learn more about the bomb and the problems. When he came back, he described the situation, how much energy would be released, what the bomb was going to be like, and the rest to the others. His mathematician friend and assistant at Los Alamos said to him afterwards, "when they make a movie picture about this, they'll have the guy coming back from Chicago telling the Princeton men all about the bomb, and he'll be dressed in a suit and carry a briefcase and so on, and you're in dirty shirtsleeves just telling us all about it."
+
+Feynman messed up the bed and laid out his wife's clothes on the other bed in his bunk so he wouldn't have to share a room. It ended up causing a political issue because they thought one of the women was sleeping with the men and had to ban all women from the men's dorms. Feynman didn't find out he was the reason until a year and a half later.
+
+It's illegal to censor mail of people in the United States, so it was set up such that they would all voluntarily not seal their envelopes. They would also voluntarily accept that their incoming mail be read. Outgoing mail would be read, then sealed and sent if deemed OK.
+
+Feynman received mail from his father and his wife with random dots and lines, or cryptic letters. They'd ask him what it was and he'd answer, "it's a code." "What's the key?" "Well, I don't know." He had a challenge where they'd send him a code he couldn't decipher. So they'd just make up codes and send them to him. He did this before Los Alamos. They obviously hated it because they couldn't screen it. He made a deal where they'd send the key but the censor people would remove it before giving it to Feynman.
+
+His wife at the time was living in Albuquerque and had TB. She once sent a list of things for Feynman to bring before he visited her: "Lethage, glycerine, hotdogs, laundry." The censors removed it because they thought it was another code but with no key.
+
+Feynman was sent to Oak Cliff, where they were doing chemical experiments and testing uranium isotopes, to inform them of the danger of storing all the uranium in one spot. They redesigned the facility to be safer and showed him the blueprints. He was lost during the presentation and kept looking at this symbol that at first he thought was a window but then thought it might be a valve, but by then it was too late to ask because it'd be awkward. So he just stuck his finger down and asked, "what if this valve gets stuck?" The two men looked up and down the blueprint and then looked at each other and went, "You're absolutely right sir." Complete guess, but they all thought he was an absolute genius and a god at Oak Cliff.

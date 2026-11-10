@@ -1,0 +1,31 @@
+[
+  {
+    "id": "third-person",
+    "url": "albums/3rd person",
+    "photos": "albums/3rd person/photos",
+    "layout": "journey",
+    "title": "3rd Person",
+    "heading": "Third-Person Photos",
+    "description": "Photos taken from a little more distance.",
+    "cover": "norway-9"
+  },
+  {
+    "id": "cats",
+    "url": "albums/Cats",
+    "photos": "albums/Cats/photos",
+    "layout": "specimens",
+    "title": "Cats",
+    "heading": "Cats",
+    "description": "Stray cats I've seen while traveling.",
+    "cover": "sardinia"
+  },
+  {
+    "id": "wall",
+    "url": "albums/editorial-feed",
+    "layout": "wall",
+    "title": "Moving Wall",
+    "heading": "Moving Wall",
+    "description": "Photos drifting in opposite directions.",
+    "cover": "third-person/cinque-terre"
+  }
+]

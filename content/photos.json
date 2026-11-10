@@ -1,0 +1,735 @@
+[
+  {
+    "id": "about/newport",
+    "set": "about",
+    "name": "newport",
+    "source": "pics/newport.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#888b96",
+    "taken": "2025-07-03T12:46:06-07:00",
+    "camera": "iPhone 15 Pro",
+    "gps": null
+  },
+  {
+    "id": "about/sardinia",
+    "set": "about",
+    "name": "sardinia",
+    "source": "pics/sardinia.jpeg",
+    "width": 724,
+    "height": 1086,
+    "color": "#47362b",
+    "taken": "2025-09-27T16:03:59",
+    "camera": "Canon PowerShot G7 X Mark II",
+    "gps": null
+  },
+  {
+    "id": "about/switzerland",
+    "set": "about",
+    "name": "switzerland",
+    "source": "pics/switzerland.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#645d45",
+    "taken": "2025-10-03T14:46:56+02:00",
+    "camera": "iPhone 17 Pro",
+    "gps": {
+      "lat": 46.6939,
+      "lon": 7.8615,
+      "altitude": 781,
+      "heading": 342,
+      "speed": 0.9,
+      "accuracy": 10
+    }
+  },
+  {
+    "id": "third-person/austin",
+    "set": "third-person",
+    "name": "austin",
+    "source": "albums/3rd person/photos/austin.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#5e708f",
+    "taken": null,
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/cinque-2",
+    "set": "third-person",
+    "name": "cinque-2",
+    "source": "albums/3rd person/photos/cinque-2.jpeg",
+    "width": 1024,
+    "height": 768,
+    "color": "#7a7f6f",
+    "taken": "2024-05-23T14:44:48+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.1291,
+      "lon": 9.7007,
+      "altitude": 211,
+      "heading": 275,
+      "speed": 0.7,
+      "accuracy": 11
+    }
+  },
+  {
+    "id": "third-person/cinque-3",
+    "set": "third-person",
+    "name": "cinque-3",
+    "source": "albums/3rd person/photos/cinque-3.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#7e7e7a",
+    "taken": "2024-05-22T17:33:31+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0979,
+      "lon": 9.7376,
+      "altitude": 5,
+      "heading": 323,
+      "speed": 0,
+      "accuracy": 7
+    }
+  },
+  {
+    "id": "third-person/cinque-4",
+    "set": "third-person",
+    "name": "cinque-4",
+    "source": "albums/3rd person/photos/cinque-4.jpeg",
+    "width": 1024,
+    "height": 768,
+    "color": "#767e67",
+    "taken": "2024-05-24T12:02:22+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0919,
+      "lon": 9.7587,
+      "altitude": 409,
+      "heading": 194,
+      "speed": 0,
+      "accuracy": 1414
+    }
+  },
+  {
+    "id": "third-person/cinque-5",
+    "set": "third-person",
+    "name": "cinque-5",
+    "source": "albums/3rd person/photos/cinque-5.jpeg",
+    "width": 1024,
+    "height": 768,
+    "color": "#847e6d",
+    "taken": "2024-05-23T14:47:13+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.1294,
+      "lon": 9.6991,
+      "altitude": 244,
+      "heading": 278,
+      "speed": 0.9,
+      "accuracy": 20
+    }
+  },
+  {
+    "id": "third-person/cinque-6",
+    "set": "third-person",
+    "name": "cinque-6",
+    "source": "albums/3rd person/photos/cinque-6.jpeg",
+    "width": 1024,
+    "height": 768,
+    "color": "#7e8c93",
+    "taken": "2024-05-24T09:53:20+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0993,
+      "lon": 9.7368,
+      "altitude": 31,
+      "heading": 299,
+      "speed": 1.1,
+      "accuracy": 4
+    }
+  },
+  {
+    "id": "third-person/cinque-7",
+    "set": "third-person",
+    "name": "cinque-7",
+    "source": "albums/3rd person/photos/cinque-7.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#766e6a",
+    "taken": "2024-05-22T16:06:35+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0987,
+      "lon": 9.7374,
+      "altitude": 32,
+      "heading": 218,
+      "speed": 0,
+      "accuracy": 35
+    }
+  },
+  {
+    "id": "third-person/cinque-8",
+    "set": "third-person",
+    "name": "cinque-8",
+    "source": "albums/3rd person/photos/cinque-8.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#79838c",
+    "taken": "2024-05-22T17:33:33+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0979,
+      "lon": 9.7376,
+      "altitude": 6,
+      "heading": 323,
+      "speed": 0,
+      "accuracy": 4
+    }
+  },
+  {
+    "id": "third-person/cinque-terre",
+    "set": "third-person",
+    "name": "cinque-terre",
+    "source": "albums/3rd person/photos/cinque-terre.jpeg",
+    "width": 1024,
+    "height": 768,
+    "color": "#7f8d93",
+    "taken": "2024-05-24T09:53:17+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.0992,
+      "lon": 9.7368,
+      "altitude": 28,
+      "heading": 299,
+      "speed": 1,
+      "accuracy": 7
+    }
+  },
+  {
+    "id": "third-person/denmark-2",
+    "set": "third-person",
+    "name": "denmark-2",
+    "source": "albums/3rd person/photos/denmark-2.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#7e8387",
+    "taken": "2024-06-07T15:43:20+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 55.6559,
+      "lon": 12.5472,
+      "altitude": 5,
+      "heading": 81,
+      "speed": 0,
+      "accuracy": 35
+    }
+  },
+  {
+    "id": "third-person/denmark-3",
+    "set": "third-person",
+    "name": "denmark-3",
+    "source": "albums/3rd person/photos/denmark-3.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#787073",
+    "taken": "2024-06-07T16:28:11",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/denmark-4",
+    "set": "third-person",
+    "name": "denmark-4",
+    "source": "albums/3rd person/photos/denmark-4.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#818a8b",
+    "taken": "2024-06-07T15:28:57+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 55.6545,
+      "lon": 12.5347,
+      "altitude": 7,
+      "heading": 78,
+      "speed": 0,
+      "accuracy": 40
+    }
+  },
+  {
+    "id": "third-person/denmark",
+    "set": "third-person",
+    "name": "denmark",
+    "source": "albums/3rd person/photos/denmark.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#999599",
+    "taken": "2024-06-07T15:46:42",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/estonia",
+    "set": "third-person",
+    "name": "estonia",
+    "source": "albums/3rd person/photos/estonia.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#676864",
+    "taken": "2024-06-17T12:48:06+03:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 59.441,
+      "lon": 24.7352,
+      "altitude": 17,
+      "heading": 319,
+      "speed": 0,
+      "accuracy": 35
+    }
+  },
+  {
+    "id": "third-person/florence-2",
+    "set": "third-person",
+    "name": "florence-2",
+    "source": "albums/3rd person/photos/florence-2.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#8b8e8c",
+    "taken": "2024-05-20T11:34:03+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 43.774,
+      "lon": 11.2493,
+      "altitude": 51,
+      "heading": 210,
+      "speed": 1.3,
+      "accuracy": 4
+    }
+  },
+  {
+    "id": "third-person/florence",
+    "set": "third-person",
+    "name": "florence",
+    "source": "albums/3rd person/photos/florence.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#959a99",
+    "taken": "2024-05-20T11:33:57+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 43.774,
+      "lon": 11.2494,
+      "altitude": 47,
+      "heading": 219,
+      "speed": 1.1,
+      "accuracy": 27
+    }
+  },
+  {
+    "id": "third-person/italy-2",
+    "set": "third-person",
+    "name": "italy-2",
+    "source": "albums/3rd person/photos/italy-2.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#968372",
+    "taken": "2024-05-21T13:16:19+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 43.7726,
+      "lon": 11.2558,
+      "altitude": 93,
+      "heading": 82,
+      "speed": 0,
+      "accuracy": 60
+    }
+  },
+  {
+    "id": "third-person/italy-3",
+    "set": "third-person",
+    "name": "italy-3",
+    "source": "albums/3rd person/photos/italy-3.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#756766",
+    "taken": "2024-05-25T18:59:45+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 41.8932,
+      "lon": 12.49,
+      "altitude": 24,
+      "heading": 156,
+      "speed": 0,
+      "accuracy": 20
+    }
+  },
+  {
+    "id": "third-person/italy-4",
+    "set": "third-person",
+    "name": "italy-4",
+    "source": "albums/3rd person/photos/italy-4.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#7e726d",
+    "taken": "2024-05-22T15:54:45+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 44.1003,
+      "lon": 9.7393,
+      "altitude": 64,
+      "heading": 257,
+      "speed": 0.9,
+      "accuracy": 4
+    }
+  },
+  {
+    "id": "third-person/italy-5",
+    "set": "third-person",
+    "name": "italy-5",
+    "source": "albums/3rd person/photos/italy-5.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#757c6f",
+    "taken": "2024-05-20T09:25:51+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 43.7613,
+      "lon": 11.2497,
+      "altitude": 93,
+      "heading": 268,
+      "speed": 0.5,
+      "accuracy": 5
+    }
+  },
+  {
+    "id": "third-person/italy-6",
+    "set": "third-person",
+    "name": "italy-6",
+    "source": "albums/3rd person/photos/italy-6.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#736864",
+    "taken": "2024-05-25T18:59:44+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 41.8932,
+      "lon": 12.49,
+      "altitude": 24,
+      "heading": 155,
+      "speed": 0,
+      "accuracy": 20
+    }
+  },
+  {
+    "id": "third-person/italy",
+    "set": "third-person",
+    "name": "italy",
+    "source": "albums/3rd person/photos/italy.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#77877c",
+    "taken": "2024-05-20T08:33:53+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 43.7638,
+      "lon": 11.2514,
+      "altitude": 77,
+      "heading": 153,
+      "speed": 1.1,
+      "accuracy": 5
+    }
+  },
+  {
+    "id": "third-person/norway-2",
+    "set": "third-person",
+    "name": "norway-2",
+    "source": "albums/3rd person/photos/norway-2.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#577379",
+    "taken": "2024-06-10T19:54:24",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/norway-3",
+    "set": "third-person",
+    "name": "norway-3",
+    "source": "albums/3rd person/photos/norway-3.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#516e82",
+    "taken": "2024-06-10T19:54:44",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/norway-4",
+    "set": "third-person",
+    "name": "norway-4",
+    "source": "albums/3rd person/photos/norway-4.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#6a6f42",
+    "taken": "2024-06-09T18:01:12+02:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 62.111,
+      "lon": 7.1621,
+      "altitude": 9,
+      "heading": 306,
+      "speed": 0,
+      "accuracy": 1708
+    }
+  },
+  {
+    "id": "third-person/norway-5",
+    "set": "third-person",
+    "name": "norway-5",
+    "source": "albums/3rd person/photos/norway-5.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#8791a2",
+    "taken": "2024-06-09T13:47:01",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/norway-6",
+    "set": "third-person",
+    "name": "norway-6",
+    "source": "albums/3rd person/photos/norway-6.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#80877a",
+    "taken": "2024-06-09T14:13:28+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 62.1284,
+      "lon": 7.1561,
+      "altitude": 560,
+      "heading": 147,
+      "speed": 0,
+      "accuracy": 6
+    }
+  },
+  {
+    "id": "third-person/norway-7",
+    "set": "third-person",
+    "name": "norway-7",
+    "source": "albums/3rd person/photos/norway-7.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#63747c",
+    "taken": "2024-06-10T16:06:40+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 61.8351,
+      "lon": 6.8061,
+      "altitude": 10,
+      "heading": 247,
+      "speed": 0,
+      "accuracy": 35
+    }
+  },
+  {
+    "id": "third-person/norway-8",
+    "set": "third-person",
+    "name": "norway-8",
+    "source": "albums/3rd person/photos/norway-8.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#8a8959",
+    "taken": "2024-06-09T20:08:43+02:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 62.1121,
+      "lon": 7.1333,
+      "altitude": 587,
+      "heading": 48,
+      "speed": 0.7,
+      "accuracy": 21
+    }
+  },
+  {
+    "id": "third-person/norway-9",
+    "set": "third-person",
+    "name": "norway-9",
+    "source": "albums/3rd person/photos/norway-9.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#86827c",
+    "taken": "2024-06-11T19:07:40+02:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 61.5809,
+      "lon": 6.4887,
+      "altitude": 232,
+      "heading": 210,
+      "speed": 0,
+      "accuracy": 15
+    }
+  },
+  {
+    "id": "third-person/norway-10",
+    "set": "third-person",
+    "name": "norway-10",
+    "source": "albums/3rd person/photos/norway-10.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#938d71",
+    "taken": "2024-06-12T19:12:10",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/norway-11",
+    "set": "third-person",
+    "name": "norway-11",
+    "source": "albums/3rd person/photos/norway-11.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#83898b",
+    "taken": "2024-06-09T17:20:14+02:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 62.0992,
+      "lon": 7.2044,
+      "altitude": 10,
+      "heading": 356,
+      "speed": 0,
+      "accuracy": 134
+    }
+  },
+  {
+    "id": "third-person/norway-12",
+    "set": "third-person",
+    "name": "norway-12",
+    "source": "albums/3rd person/photos/norway-12.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#6c7674",
+    "taken": "2024-06-10T20:21:46+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 61.5401,
+      "lon": 6.4496,
+      "altitude": 784,
+      "heading": 256,
+      "speed": 0.1,
+      "accuracy": 5
+    }
+  },
+  {
+    "id": "third-person/norway-13",
+    "set": "third-person",
+    "name": "norway-13",
+    "source": "albums/3rd person/photos/norway-13.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#616b3c",
+    "taken": "2024-06-09T18:01:13+02:00",
+    "camera": "iPhone 15 Pro Max",
+    "gps": {
+      "lat": 62.1098,
+      "lon": 7.1655,
+      "altitude": 359,
+      "heading": 317,
+      "speed": 1,
+      "accuracy": 123
+    }
+  },
+  {
+    "id": "third-person/norway",
+    "set": "third-person",
+    "name": "norway",
+    "source": "albums/3rd person/photos/norway.jpeg",
+    "width": 665,
+    "height": 1182,
+    "color": "#908c6f",
+    "taken": "2024-06-12T19:12:12",
+    "camera": null,
+    "gps": null
+  },
+  {
+    "id": "third-person/sweden",
+    "set": "third-person",
+    "name": "sweden",
+    "source": "albums/3rd person/photos/sweden.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#838c99",
+    "taken": "2024-06-09T10:04:05+02:00",
+    "camera": "iPhone 13",
+    "gps": {
+      "lat": 62.5432,
+      "lon": 6.569,
+      "altitude": 19,
+      "heading": 242,
+      "speed": 0,
+      "accuracy": 76
+    }
+  },
+  {
+    "id": "cats/rainey",
+    "set": "cats",
+    "name": "rainey",
+    "source": "albums/Cats/photos/rainey.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#918a83",
+    "taken": "2026-03-03T06:47:10-06:00",
+    "camera": "iPhone 17 Pro",
+    "gps": {
+      "lat": 30.2596,
+      "lon": -97.7386,
+      "altitude": 142,
+      "heading": 285,
+      "speed": 0.2,
+      "accuracy": 11
+    }
+  },
+  {
+    "id": "cats/sardinia-2",
+    "set": "cats",
+    "name": "sardinia-2",
+    "source": "albums/Cats/photos/sardinia-2.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#847e6d",
+    "taken": "2025-09-30T13:38:39+02:00",
+    "camera": "iPhone 14 Pro Max",
+    "gps": null
+  },
+  {
+    "id": "cats/sardinia-3",
+    "set": "cats",
+    "name": "sardinia-3",
+    "source": "albums/Cats/photos/sardinia-3.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#72726e",
+    "taken": "2025-09-30T13:38:44+02:00",
+    "camera": "iPhone 14 Pro Max",
+    "gps": null
+  },
+  {
+    "id": "cats/sardinia",
+    "set": "cats",
+    "name": "sardinia",
+    "source": "albums/Cats/photos/sardinia.jpeg",
+    "width": 768,
+    "height": 1024,
+    "color": "#797564",
+    "taken": "2025-09-30T11:55:14+02:00",
+    "camera": "iPhone 17 Pro",
+    "gps": {
+      "lat": 43.3984,
+      "lon": 16.2077,
+      "altitude": 5,
+      "heading": 45,
+      "speed": 0.1,
+      "accuracy": 5
+    }
+  }
+]

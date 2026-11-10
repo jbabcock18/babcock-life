@@ -1,0 +1,148 @@
+{
+  "//": "Per-photo notes, keyed by '<set>/<file name>'. alt: text for screen readers. label: a caption to show instead of the place name. place: pins a photo that has no GPS fix to a place from places.json. focus: which part to keep when the photo is cropped (CSS object-position).",
+  "about/newport": {
+    "label": "Newport",
+    "alt": "Two friends sit on the sand in front of a beach volleyball net under a clear blue sky.",
+    "focus": "50% 85%"
+  },
+  "about/sardinia": {
+    "label": "Sardinia",
+    "alt": "Smiling at a candlelit restaurant table in a white shirt, a glass of white wine in front of him.",
+    "focus": "50% 78%"
+  },
+  "about/switzerland": {
+    "label": "Switzerland",
+    "alt": "Sitting on stone steps on a wooded trail in a red Swiss-cross beanie, holding a can."
+  },
+  "cats/rainey": {
+    "label": "Rainey Street",
+    "alt": "A fluffy brown tabby sits on a concrete step beside an iron gate."
+  },
+  "cats/sardinia": {
+    "alt": "A grey cat sits in the grass under an olive tree, looking straight at the camera."
+  },
+  "cats/sardinia-2": {
+    "place": "maslinica",
+    "alt": "A shirtless man sitting on a pebble beach strokes a tabby cat."
+  },
+  "cats/sardinia-3": {
+    "place": "maslinica",
+    "alt": "A tabby cat stands on a pebble beach beside a man taking its photo."
+  },
+  "third-person/austin": {
+    "place": "austin",
+    "alt": "A man in a patterned short-sleeve shirt looks out over a crowded lawn toward the Austin skyline."
+  },
+  "third-person/italy": {
+    "alt": "A man with a backpack walks up a paved garden path between tall clipped hedges."
+  },
+  "third-person/italy-5": {
+    "alt": "A man with a backpack walks down a gravel path between high hedges."
+  },
+  "third-person/florence": {
+    "alt": "A man with a backpack, seen from behind, faces a row of pale stone buildings across a lawn with flower beds."
+  },
+  "third-person/florence-2": {
+    "alt": "The same square a few seconds later, as he walks toward the buildings along the edge of the lawn."
+  },
+  "third-person/italy-2": {
+    "alt": "A man climbs a narrow stone stairway squeezed between two walls."
+  },
+  "third-person/italy-4": {
+    "alt": "A wide stepped lane between pastel houses and potted plants, with a small figure walking ahead."
+  },
+  "third-person/cinque-7": {
+    "alt": "A man with a backpack walks down a steep alley toward a rough blue sea."
+  },
+  "third-person/cinque-3": {
+    "alt": "A shirtless man in blue swim shorts picks his way over boulders at the edge of a choppy sea."
+  },
+  "third-person/cinque-8": {
+    "alt": "A wider view of the boulder shore, with him standing among the rocks under dark cliffs."
+  },
+  "third-person/cinque-2": {
+    "alt": "A man with a backpack walks a narrow trail above the sea, wildflowers on both sides."
+  },
+  "third-person/cinque-5": {
+    "alt": "A man with a backpack walks a fenced trail past poppies toward a pink house."
+  },
+  "third-person/cinque-terre": {
+    "alt": "A man in a white T-shirt walks a railed coastal path above the sea, poppies growing along the wall."
+  },
+  "third-person/cinque-6": {
+    "alt": "The same coastal path a few steps further on."
+  },
+  "third-person/cinque-4": {
+    "alt": "A shirtless man walks down a path through terraced vineyards high above the sea."
+  },
+  "third-person/italy-6": {
+    "alt": "A man in a green T-shirt walks down a cobbled street between ochre buildings."
+  },
+  "third-person/italy-3": {
+    "alt": "The same cobbled street a second later, a little further along."
+  },
+  "third-person/denmark-4": {
+    "alt": "Three men walk away down a gravel path between hedges under a cloudy sky."
+  },
+  "third-person/denmark-2": {
+    "alt": "A cyclist in a white T-shirt rides down a bike lane with one arm raised."
+  },
+  "third-person/denmark": {
+    "place": "copenhagen",
+    "alt": "Two cyclists ride away along a cycle track beside a wide road."
+  },
+  "third-person/denmark-3": {
+    "place": "copenhagen",
+    "alt": "A man in a cap and a graphic T-shirt walks into a street market strung with lights."
+  },
+  "third-person/sweden": {
+    "alt": "A lone figure stands on a stony shore at the edge of a still fjord under heavy cloud."
+  },
+  "third-person/norway-5": {
+    "place": "norway",
+    "alt": "Two men stand side by side looking out over a fjord wrapped in cloud."
+  },
+  "third-person/norway-6": {
+    "alt": "A man stands on a mossy outcrop looking down at a fjord through low cloud."
+  },
+  "third-person/norway-11": {
+    "alt": "A hooded man with a backpack walks a wet road toward mountains in the mist."
+  },
+  "third-person/norway-4": {
+    "alt": "Hikers climb a muddy forest trail through ferns, the nearest with a jacket tied around his waist."
+  },
+  "third-person/norway-13": {
+    "alt": "The same forest trail a second later, the line of hikers climbing through the trees."
+  },
+  "third-person/norway-8": {
+    "alt": "A hiker passes a turf-roofed hut and a large boulder on a green hillside."
+  },
+  "third-person/norway-7": {
+    "alt": "A man in a cap and black T-shirt stands in a car park facing a green mountainside under broken cloud."
+  },
+  "third-person/norway-2": {
+    "place": "norway",
+    "alt": "Two people stand at a viewpoint photographing a fjord far below."
+  },
+  "third-person/norway-3": {
+    "place": "norway",
+    "alt": "Three people stand at the viewpoint above the fjord under towering clouds."
+  },
+  "third-person/norway-12": {
+    "alt": "A man lies on his back in the grass on a hilltop high above a lake and green ridges."
+  },
+  "third-person/norway-9": {
+    "alt": "A man leaps with a yellow ball raised overhead on an outdoor court, snow-streaked mountains behind him."
+  },
+  "third-person/norway-10": {
+    "place": "norway",
+    "alt": "Someone with a purple backpack sits on a rock overlooking a green valley and misty peaks."
+  },
+  "third-person/norway": {
+    "place": "norway",
+    "alt": "The same valley view a moment later."
+  },
+  "third-person/estonia": {
+    "alt": "A man walks through a covered market hall past stalls piled with fruit and vegetables."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Jack Babcock",
+  "tagline": "I love life.",
+  "description": "Jack Babcock is a software builder creating thoughtful tools, projects, notes, and experiments on the web.",
+  "bio": "A software builder creating thoughtful tools, projects, notes, and experiments on the web.",
+  "links": [
+    { "label": "Instagram", "url": "https://www.instagram.com/jack__babcock/" }
+  ],
+  "nav": [
+    { "label": "about", "url": "index.html" },
+    { "label": "projects", "url": "projects.html" },
+    { "label": "notes", "url": "notes.html" },
+    { "label": "albums", "url": "albums.html" }
+  ],
+  "portraits": {
+    "dir": "pics",
+    "order": ["newport", "sardinia", "switzerland"]
+  }
+}
